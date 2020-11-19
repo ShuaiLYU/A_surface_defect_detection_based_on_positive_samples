@@ -9,5 +9,5 @@
  
  3. It is inspire by the paper "A Surface Defect Detection Method Based on Positive Samples".
  
- 4. We Got the 5th place in the [National campus machine vison application competition](https://www.marsbigdata.com/competition/details?id=5293671830016).
+ 4. We Got the 5th place in the preliminary contest of [National campus machine vison application competition](https://www.marsbigdata.com/competition/details?id=5293671830016).
          
